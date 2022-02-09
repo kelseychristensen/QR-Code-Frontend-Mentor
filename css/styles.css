@@ -63,7 +63,7 @@ and (min-width : 1224px){ {
 .white-box {
   text-align: center;
   background-color: hsl(0, 0%, 100%);
-  width: 30%;
+  width: 300px;
   height: 100%;
   margin: auto;
   padding: 12px;
