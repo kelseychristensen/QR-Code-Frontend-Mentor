@@ -1,3 +1,5 @@
+@media only screen and and (min-device-width : 320px) 
+and (max-device-width : 480px) {
 body {
   background-color: hsl(212, 45%, 89%);
 }
@@ -10,7 +12,7 @@ body {
 .white-box {
   text-align: center;
   background-color: hsl(0, 0%, 100%);
-  width: 300px;
+  width: 90%;
   height: 100%;
   margin: auto;
   padding: 12px;
@@ -45,4 +47,56 @@ img {
   text-align: center;
   bottom: 10px;
   width: 100%;
+}
+}
+  
+@media only screen 
+and (min-width : 1224px){ {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.box-parent {
+  margin: auto;
+  padding: 10%;
+}
+
+.white-box {
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  width: 30%;
+  height: 100%;
+  margin: auto;
+  padding: 12px;
+  border-radius: 12px;
+  filter: drop-shadow(0 0 1rem rgb(48%, 53%, 62%, 30%));
+}
+
+h1 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  padding: 0 10px 0 10px;
+  color: hsl(218, 44%, 22%)
+}
+
+p {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  padding: 0 18px 10px 18px;
+}
+
+img {
+  border-radius: 12px;
+  width: 100%;
+  margin: auto;
+}
+
+.attribution {
+  position: absolute;
+  text-align: center;
+  bottom: 10px;
+  width: 100%;
+}
 }
