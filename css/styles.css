@@ -2,7 +2,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 
-.box-parent {
+main {
   margin: auto;
   padding: 10%;
 }
