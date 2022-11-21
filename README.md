@@ -24,8 +24,8 @@ This is a solution to the [QR Code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/qr-code-for-desktop-site-18Y57zgDD)
-- Live Site URL: [Live site URL here](https://qr-code-frontend-mentor-kelseychristensen.vercel.app/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/qr-code-for-desktop-site-18Y57zgDD)
+- Live Site URL: [here](https://qr-code-frontend-mentor-kelseychristensen.vercel.app/)
 
 ## My process
 
