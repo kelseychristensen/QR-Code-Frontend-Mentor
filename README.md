@@ -31,7 +31,6 @@ This is a solution to the [QR Code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- CSS custom properties
 - Flexbox
 - CSS
 - HTML
